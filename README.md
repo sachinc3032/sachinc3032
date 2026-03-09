@@ -47,7 +47,7 @@ Admin system to add, update and manage product listings with database storage.
 
 ---
 
-## 🌐 Portfolio
+## 🌐 Project 
 
 - https://mitsubishi.plc-hmi-supplier.com  
 - https://plc-hmi-supplier.com  
