@@ -13,7 +13,7 @@ Currently learning **PHP and MySQL** to develop dynamic web applications.
 
 - HTML5, CSS3, JavaScript
 - Responsive Web Development
-- PHP (Basic), MySQL (Basic)
+- PHP , MySQL
 - Technical SEO & On-Page SEO
 - Google Search Console
 - GoDaddy cPanel Hosting
