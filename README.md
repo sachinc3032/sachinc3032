@@ -1,155 +1,63 @@
 # Hi 👋 I'm Sachin Chauhan
 
-💻 **Web Developer (Frontend & Technical SEO)**  
-📍 Maharashtra, India  
+💻 Web Developer (Frontend & Technical SEO)  
+📍 Maharashtra, India
 
-I am a web developer with **2 years of practical experience in frontend development, website deployment, and technical SEO**.  
-I specialize in building responsive product websites, deploying them using **GoDaddy cPanel hosting**, and optimizing them for **search engines and answer engines**.
+I am a web developer with **2+ years of experience in frontend development, website deployment, and technical SEO**. I build responsive websites using **HTML, CSS, and JavaScript** and deploy them using **GoDaddy cPanel hosting**.  
 
-Currently expanding my skills in **backend development using PHP & MySQL** to build dynamic web applications.
+Currently learning **PHP and MySQL** to develop dynamic web applications.
 
 ---
 
-# 🚀 Skills & Technologies
+## 🛠 Skills
 
-### Frontend
-- HTML5
-- CSS3
-- JavaScript
-- Responsive Web Design
-
-### Backend (Learning)
-- PHP
-- MySQL
-
-### SEO & Optimization
-- On-Page SEO
-- Meta Tags Optimization
-- Heading Structure (H1, H2, H3)
-- Sitemap Creation
+- HTML5, CSS3, JavaScript
+- Responsive Web Development
+- PHP (Basic), MySQL (Basic)
+- Technical SEO & On-Page SEO
 - Google Search Console
-- AEO (Answer Engine Optimization)
-- GEO Optimization
-
-### Hosting & Deployment
 - GoDaddy cPanel Hosting
-- Website Deployment
-- Website Migration
-- SSL Activation
-- Domain & Hosting Management
-
-### Tools
-- Canva
-- Google Business Profile
-- Remove.bg
-- SnapEdit
-- Git & GitHub
+- Website Deployment & Migration
+- SSL Certificate Activation
+- Canva Design
 
 ---
 
-# 💼 Professional Experience
+## 💼 Experience
 
-## Frontend Web Developer — Grups Automation
-📅 Feb 2024 – March 2026
+**Frontend Web Developer — Grups Automation**  
+Feb 2024 – March 2026  
 
-- Developed responsive **product web pages using HTML, CSS, and JavaScript**
-- Deployed websites using **GoDaddy cPanel**
-- Implemented **SEO optimization (meta tags, headings, alt tags)**
-- Created **sitemap.xml and indexed sites via Google Search Console**
-- Managed **SSL certificates and domain hosting**
-- Performed **website migration between hosting environments**
-- Created **marketing graphics and catalogues using Canva**
-- Managed **Google Business Profile and location-based SEO**
-- Assisted in **ERP migration project (.NET → PHP + MySQL)**
+- Developed responsive product pages using HTML, CSS and JavaScript  
+- Deployed websites using GoDaddy cPanel hosting  
+- Implemented on-page SEO including meta tags, headings, and sitemap  
+- Connected websites with Google Search Console for indexing  
+- Managed SSL certificates and website hosting  
+- Designed marketing graphics and product catalogues using Canva  
 
 ---
 
-# 📂 Projects
+## 🚀 Projects
 
-### 🎓 Student Management System
-Web-based system to manage student records.
+**Student Management System**  
+PHP + MySQL web application for managing student records with login authentication and CRUD operations.
 
-Features:
-- Login authentication
-- Add / Edit / Delete students
-- Dashboard statistics
-- MySQL database integration
-
-Tech Stack:
-PHP • MySQL • HTML • CSS • Bootstrap
-
-GitHub:
-https://github.com/yourusername/studentmanagement-system
+**Product Management System**  
+Admin system to add, update and manage product listings with database storage.
 
 ---
 
-### 📦 Product Management System
-Admin panel for managing product listings.
+## 🌐 Portfolio
 
-Features:
-- Add / update / delete products
-- Product image uploads
-- Product categories
-- MySQL database storage
-
-Tech Stack:
-PHP • MySQL • HTML • CSS • Bootstrap
-
-GitHub:
-https://github.com/yourusername/productmanagement-system
+- https://mitsubishi.plc-hmi-supplier.com  
+- https://plc-hmi-supplier.com  
+- https://grupsautomation.in  
 
 ---
 
-# 🌐 Work Portfolio
+## 📫 Contact
 
-- https://mitsubishi.plc-hmi-supplier.com
-- https://plc-hmi-supplier.com
-- https://grupsautomation.in
+Email: sc1231925@gmail.com  
+Phone: +91 9967319557  
 
----
-
-# 🎓 Education
-
-**Software Engineering Course**  
-I-Tech Computer Education  
-
-**Higher Secondary (12th Pass)**  
-Kanchan High School & Jr. College (2019–2020)
-
----
-
-# 📜 Certification
-
-Software Engineering Certification  
-I-Tech Computer Education
-
----
-
-# 🌎 Languages
-
-- Gujarati
-- Hindi
-- Basic English
-
----
-
-# 💪 Strengths
-
-- Quick learner
-- Adaptable to new technologies
-- Practical experience in real website deployment
-- Strong interest in backend development
-
----
-
-# 📫 Contact
-
-📧 Email: sc1231925@gmail.com  
-📱 Phone: +91 9967319557  
-
-GitHub: https://github.com/yourusername  
-Portfolio: https://yourportfolio.com
-
----
-
-⭐ Always learning and improving my development skills.
+GitHub: https://github.com/yourusername
